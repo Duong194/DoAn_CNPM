@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoAn_CNPM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6c68533e6b529174f8e42e2158ddb8229b5cb5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ac6972a6009bff44dc52bacf70b2306d1659586")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoAn_CNPM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoAn_CNPM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
