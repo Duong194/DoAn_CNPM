@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CNPM\\DoAn_CNPM\\DoAn_CNPM\\DoAn_CNPM.csproj": {}
+    "C:\\QLKS\\DoAn_CNPM\\DoAn_CNPM\\DoAn_CNPM\\DoAn_CNPM.csproj": {}
   },
   "projects": {
-    "D:\\CNPM\\DoAn_CNPM\\DoAn_CNPM\\DoAn_CNPM.csproj": {
+    "C:\\QLKS\\DoAn_CNPM\\DoAn_CNPM\\DoAn_CNPM\\DoAn_CNPM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CNPM\\DoAn_CNPM\\DoAn_CNPM\\DoAn_CNPM.csproj",
+        "projectUniqueName": "C:\\QLKS\\DoAn_CNPM\\DoAn_CNPM\\DoAn_CNPM\\DoAn_CNPM.csproj",
         "projectName": "DoAn_CNPM",
-        "projectPath": "D:\\CNPM\\DoAn_CNPM\\DoAn_CNPM\\DoAn_CNPM.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\CNPM\\DoAn_CNPM\\DoAn_CNPM\\obj\\",
+        "projectPath": "C:\\QLKS\\DoAn_CNPM\\DoAn_CNPM\\DoAn_CNPM\\DoAn_CNPM.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\QLKS\\DoAn_CNPM\\DoAn_CNPM\\DoAn_CNPM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
