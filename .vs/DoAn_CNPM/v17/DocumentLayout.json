@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\QLKS\\DoAn_CNPM\\DoAn_CNPM\\",
+  "WorkspaceRootPath": "F:\\DACNPM\\DoAn_CNPM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7AD2247-81A2-41AC-99D9-B4BC417682EF}|DoAn_CNPM\\DoAn_CNPM.csproj|c:\\qlks\\doan_cnpm\\doan_cnpm\\doan_cnpm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F7AD2247-81A2-41AC-99D9-B4BC417682EF}|DoAn_CNPM\\DoAn_CNPM.csproj|f:\\dacnpm\\doan_cnpm\\doan_cnpm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F7AD2247-81A2-41AC-99D9-B4BC417682EF}|DoAn_CNPM\\DoAn_CNPM.csproj|solutionrelative:doan_cnpm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AD2247-81A2-41AC-99D9-B4BC417682EF}|DoAn_CNPM\\DoAn_CNPM.csproj|f:\\dacnpm\\doan_cnpm\\doan_cnpm\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7AD2247-81A2-41AC-99D9-B4BC417682EF}|DoAn_CNPM\\DoAn_CNPM.csproj|solutionrelative:doan_cnpm\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "F:\\DACNPM\\DoAn_CNPM\\DoAn_CNPM\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DoAn_CNPM\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "F:\\DACNPM\\DoAn_CNPM\\DoAn_CNPM\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "DoAn_CNPM\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T07:34:20.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\QLKS\\DoAn_CNPM\\DoAn_CNPM\\DoAn_CNPM\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "F:\\DACNPM\\DoAn_CNPM\\DoAn_CNPM\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DoAn_CNPM\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\QLKS\\DoAn_CNPM\\DoAn_CNPM\\DoAn_CNPM\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\DACNPM\\DoAn_CNPM\\DoAn_CNPM\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "DoAn_CNPM\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
