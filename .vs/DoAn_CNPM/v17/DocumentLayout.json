@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ngocc\\OneDrive\\M\u00E1y t\u00EDnh\\DoAn_CNPM\\",
+  "WorkspaceRootPath": "D:\\CNPM\\DoAn_CNPM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7AD2247-81A2-41AC-99D9-B4BC417682EF}|DoAn_CNPM\\DoAn_CNPM.csproj|c:\\users\\ngocc\\onedrive\\m\u00E1y t\u00EDnh\\doan_cnpm\\doan_cnpm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F7AD2247-81A2-41AC-99D9-B4BC417682EF}|DoAn_CNPM\\DoAn_CNPM.csproj|d:\\cnpm\\doan_cnpm\\doan_cnpm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F7AD2247-81A2-41AC-99D9-B4BC417682EF}|DoAn_CNPM\\DoAn_CNPM.csproj|solutionrelative:doan_cnpm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7AD2247-81A2-41AC-99D9-B4BC417682EF}|DoAn_CNPM\\DoAn_CNPM.csproj|c:\\users\\ngocc\\onedrive\\m\u00E1y t\u00EDnh\\doan_cnpm\\doan_cnpm\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F7AD2247-81A2-41AC-99D9-B4BC417682EF}|DoAn_CNPM\\DoAn_CNPM.csproj|d:\\cnpm\\doan_cnpm\\doan_cnpm\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F7AD2247-81A2-41AC-99D9-B4BC417682EF}|DoAn_CNPM\\DoAn_CNPM.csproj|solutionrelative:doan_cnpm\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -18,23 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngocc\\OneDrive\\M\u00E1y t\u00EDnh\\DoAn_CNPM\\DoAn_CNPM\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "D:\\CNPM\\DoAn_CNPM\\DoAn_CNPM\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "DoAn_CNPM\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\ngocc\\OneDrive\\M\u00E1y t\u00EDnh\\DoAn_CNPM\\DoAn_CNPM\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\CNPM\\DoAn_CNPM\\DoAn_CNPM\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "DoAn_CNPM\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -44,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngocc\\OneDrive\\M\u00E1y t\u00EDnh\\DoAn_CNPM\\DoAn_CNPM\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\CNPM\\DoAn_CNPM\\DoAn_CNPM\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DoAn_CNPM\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ngocc\\OneDrive\\M\u00E1y t\u00EDnh\\DoAn_CNPM\\DoAn_CNPM\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\CNPM\\DoAn_CNPM\\DoAn_CNPM\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "DoAn_CNPM\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-20T07:14:53.75Z",
               "EditorCaption": ""
